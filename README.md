@@ -1,2 +1,2 @@
 # Django-Advanced
- Django advanced for maktablhone
+ Django advanced for maktabkhone
